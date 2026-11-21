@@ -1,0 +1,4 @@
+anthropic>=2.12
+tweepy>=4.14
+python-dotenv>=1.0
+pydantic>=2
